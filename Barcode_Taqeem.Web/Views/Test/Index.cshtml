@@ -1,0 +1,38 @@
+﻿@model List<Barcode_Taqeem.DL_DomainLayer_.EmployeeDmainModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Welcome: @ViewBag.empname</h1>
+
+<div class="container">
+    <table class="table tab-content table-bordered">
+        <thead>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+        </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Name</td>
+                            <td>@item.Address</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3"> No Data Found </td>
+                        
+                    </tr>
+                }
+
+            </tbody>
+    </table>
+</div>

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcode_Taqeem.BusinessLayer", "Barcode_Taqeem.EntityFramework\Barcode_Taqeem.BusinessLayer.csproj", "{3B287E09-8133-411A-876B-F0682E00C27D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcode_Taqeem.DataAccessLayer", "Barcode_Taqeem.DAL(Data Access Layer)\Barcode_Taqeem.DataAccessLayer.csproj", "{3F3AD179-C789-4236-81F3-8CC2F073658E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcode_Taqeem.DomainLayer", "Barcode_Taqeem.DL(DomainLayer)\Barcode_Taqeem.DomainLayer.csproj", "{2E3D9627-B09B-4798-A1A9-5DFB9151DAC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcode_Taqeem.Web", "Barcode_Taqeem.Web\Barcode_Taqeem.Web.csproj", "{27CAF25D-AC5E-45EA-980D-978F6DBF94C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcode_Taqeem.WebAPI", "Barcode_Taqeem.WebAPI\Barcode_Taqeem.WebAPI.csproj", "{7BA8EA14-B26F-4AB9-97A4-923425C887C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B287E09-8133-411A-876B-F0682E00C27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B287E09-8133-411A-876B-F0682E00C27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B287E09-8133-411A-876B-F0682E00C27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B287E09-8133-411A-876B-F0682E00C27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3AD179-C789-4236-81F3-8CC2F073658E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3AD179-C789-4236-81F3-8CC2F073658E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3AD179-C789-4236-81F3-8CC2F073658E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3AD179-C789-4236-81F3-8CC2F073658E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3D9627-B09B-4798-A1A9-5DFB9151DAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3D9627-B09B-4798-A1A9-5DFB9151DAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3D9627-B09B-4798-A1A9-5DFB9151DAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3D9627-B09B-4798-A1A9-5DFB9151DAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CAF25D-AC5E-45EA-980D-978F6DBF94C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CAF25D-AC5E-45EA-980D-978F6DBF94C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CAF25D-AC5E-45EA-980D-978F6DBF94C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CAF25D-AC5E-45EA-980D-978F6DBF94C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA8EA14-B26F-4AB9-97A4-923425C887C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA8EA14-B26F-4AB9-97A4-923425C887C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA8EA14-B26F-4AB9-97A4-923425C887C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA8EA14-B26F-4AB9-97A4-923425C887C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96813CEB-3D95-41F9-983E-D1F3A7AF27A8}
+	EndGlobalSection
+EndGlobal

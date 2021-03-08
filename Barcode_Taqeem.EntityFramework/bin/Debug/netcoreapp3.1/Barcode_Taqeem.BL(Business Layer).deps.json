@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Barcode_Taqeem.BL(Business Layer)/1.0.0": {
+        "dependencies": {
+          "Barcode_Taqeem.DL(DomainLayer)": "1.0.0"
+        },
+        "runtime": {
+          "Barcode_Taqeem.BL(Business Layer).dll": {}
+        }
+      },
+      "Barcode_Taqeem.DAL(Data Access Layer)/1.0.0": {
+        "runtime": {
+          "Barcode_Taqeem.DAL(Data Access Layer).dll": {}
+        }
+      },
+      "Barcode_Taqeem.DL(DomainLayer)/1.0.0": {
+        "runtime": {
+          "Barcode_Taqeem.DL(DomainLayer).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Barcode_Taqeem.BL(Business Layer)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Barcode_Taqeem.DAL(Data Access Layer)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Barcode_Taqeem.DL(DomainLayer)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

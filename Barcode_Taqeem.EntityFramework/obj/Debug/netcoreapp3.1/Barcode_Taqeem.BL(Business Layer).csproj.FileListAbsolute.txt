@@ -1,0 +1,14 @@
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).deps.json
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).dll
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).pdb
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DAL(Data Access Layer).dll
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).dll
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DAL(Data Access Layer).pdb
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).pdb
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).csprojAssemblyReference.cache
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).AssemblyInfoInputs.cache
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).AssemblyInfo.cs
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).csproj.CoreCompileInputs.cache
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).csproj.CopyComplete
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).dll
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.EntityFramework\obj\Debug\netcoreapp3.1\Barcode_Taqeem.BL(Business Layer).pdb

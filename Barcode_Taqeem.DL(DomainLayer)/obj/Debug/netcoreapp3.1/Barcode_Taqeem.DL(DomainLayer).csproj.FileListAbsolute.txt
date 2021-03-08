@@ -1,0 +1,8 @@
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).deps.json
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).dll
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).pdb
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).AssemblyInfoInputs.cache
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).AssemblyInfo.cs
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).csproj.CoreCompileInputs.cache
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).dll
+E:\Barcode- Ahmed Abdel Hameed\Full Structure\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DL(DomainLayer).pdb
