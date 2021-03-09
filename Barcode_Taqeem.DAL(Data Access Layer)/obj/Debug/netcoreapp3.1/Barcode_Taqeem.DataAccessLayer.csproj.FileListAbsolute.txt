@@ -52,3 +52,18 @@ E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\D
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.dll
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.pdb
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.genruntimeconfig.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.deps.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.runtimeconfig.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.runtimeconfig.dev.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.csprojAssemblyReference.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.AssemblyInfo.cs
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.csproj.CopyComplete
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DAL(Data Access Layer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DataAccessLayer.genruntimeconfig.cache

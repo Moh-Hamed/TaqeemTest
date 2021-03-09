@@ -32,3 +32,12 @@ E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\ne
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.csproj.CoreCompileInputs.cache
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.dll
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.deps.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\bin\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.csprojAssemblyReference.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.AssemblyInfo.cs
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.DL(DomainLayer)\obj\Debug\netcoreapp3.1\Barcode_Taqeem.DomainLayer.pdb

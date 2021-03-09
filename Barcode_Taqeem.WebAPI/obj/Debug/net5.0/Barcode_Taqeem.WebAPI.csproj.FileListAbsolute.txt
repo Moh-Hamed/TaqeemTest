@@ -146,3 +146,42 @@ E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barc
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\ref\Barcode_Taqeem.WebAPI.dll
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.pdb
 E:\7-3-2021\version 3\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.genruntimeconfig.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Barcode_Taqeem.WebAPI.exe
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Barcode_Taqeem.WebAPI.deps.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Barcode_Taqeem.WebAPI.runtimeconfig.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Barcode_Taqeem.WebAPI.runtimeconfig.dev.json
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Barcode_Taqeem.WebAPI.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\ref\Barcode_Taqeem.WebAPI.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Barcode_Taqeem.WebAPI.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\OptimaJet.Workflow.Core.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.csprojAssemblyReference.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.AssemblyInfoInputs.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.AssemblyInfo.cs
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.csproj.CoreCompileInputs.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\staticwebassets\Barcode_Taqeem.WebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\staticwebassets\Barcode_Taqeem.WebAPI.StaticWebAssets.xml
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Barcode_Taqeem.WebAPI.styles.css
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.csproj.CopyComplete
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\ref\Barcode_Taqeem.WebAPI.dll
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.pdb
+D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.genruntimeconfig.cache

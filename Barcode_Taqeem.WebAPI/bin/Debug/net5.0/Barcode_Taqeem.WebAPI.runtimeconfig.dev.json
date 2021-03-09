@@ -1,8 +1,11 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\AboZain\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\AboZain\\.nuget\\packages"
+      "C:\\Users\\BARCODE IT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BARCODE IT\\.nuget\\packages",
+      "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+      "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }

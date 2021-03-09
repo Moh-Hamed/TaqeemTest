@@ -1,35 +1,45 @@
 {
   "format": 1,
   "restore": {
-    "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj": {}
+    "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj": {}
   },
   "projects": {
-    "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj": {
+    "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj",
         "projectName": "Barcode_Taqeem.DataAccessLayer",
-        "projectPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\AboZain\\.nuget\\packages\\",
-        "outputPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\obj\\",
+        "projectPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\BARCODE IT\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\AboZain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\BARCODE IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\BARCODE IT\\AppData\\Local\\Esri\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj": {
-                "projectPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj"
+              "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj": {
+                "projectPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj"
               }
             }
           }
@@ -78,24 +88,34 @@
         }
       }
     },
-    "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj": {
+    "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj",
+        "projectUniqueName": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj",
         "projectName": "Barcode_Taqeem.DomainLayer",
-        "projectPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj",
-        "packagesPath": "C:\\Users\\AboZain\\.nuget\\packages\\",
-        "outputPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\obj\\",
+        "projectPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\BARCODE IT\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\AboZain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\BARCODE IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\BARCODE IT\\AppData\\Local\\Esri\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,35 +152,45 @@
         }
       }
     },
-    "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj": {
+    "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj",
+        "projectUniqueName": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj",
         "projectName": "Barcode_Taqeem.BusinessLayer",
-        "projectPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\AboZain\\.nuget\\packages\\",
-        "outputPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\obj\\",
+        "projectPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\Barcode_Taqeem.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\BARCODE IT\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\AboZain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\BARCODE IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\BARCODE IT\\AppData\\Local\\Esri\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj": {
-                "projectPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj"
+              "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DAL(Data Access Layer)\\Barcode_Taqeem.DataAccessLayer.csproj"
               },
-              "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj": {
-                "projectPath": "E:\\7-3-2021\\version 3\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj"
+              "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj": {
+                "projectPath": "D:\\Projects\\TaqeemSystem\\Barcode_Taqeem\\Barcode_Taqeem.DL(DomainLayer)\\Barcode_Taqeem.DomainLayer.csproj"
               }
             }
           }
