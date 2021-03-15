@@ -163,12 +163,10 @@ D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\M
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\bin\Debug\net5.0\OptimaJet.Workflow.Core.dll
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.csprojAssemblyReference.cache
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\TaqeemSystem\Barcode_Taqeem\Barcode_Taqeem.WebAPI\obj\Debug\net5.0\Barcode_Taqeem.WebAPI.AssemblyInfoInputs.cache
